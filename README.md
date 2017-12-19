@@ -1,5 +1,5 @@
 # embeddinator-helloworld
-The Hello World of .NET Embedding. Writing shared logic in C# and .NET and using the .NEt Embedding toolign to create a native iOS framework that can be called from Objective-C/Swift in Xcode.
+The Hello World of .NET Embedding. Writing shared logic in C# and .NET and using the .NEt Embedding tooling to create a native iOS framework that can be called from Objective-C/Swift in Xcode.
 
 ## Guide
 * Install Visual Studio for Mac: www.visualstudio.com
